@@ -9,6 +9,7 @@ var App = React.createClass({
 			data = []
 		};
 	},
+	
 	render: function() {
 		return (
 			<div>
